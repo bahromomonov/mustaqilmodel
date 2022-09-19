@@ -1,0 +1,2 @@
+# mustaqilmodel
+mustaqil_model
